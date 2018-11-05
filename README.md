@@ -1,1 +1,1 @@
-# Backend Challenges Boilerplate - Basic Express
+# Basic Node.js backend project
